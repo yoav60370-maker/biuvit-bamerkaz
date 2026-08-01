@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded',function(){
-  var displayPhone='+972-77-2614164';
-  var dialPhone='tel:+972772614164';
+  var displayPhone='0772614164';
+  var dialPhone='tel:0772614164';
 
   document.querySelectorAll('.wc-phone').forEach(function(link){
     link.textContent=displayPhone;
