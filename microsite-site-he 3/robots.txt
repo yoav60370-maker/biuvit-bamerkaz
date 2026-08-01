@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you.html
+
+Sitemap: https://yoav60370-maker.github.io/biuvit-bamerkaz/sitemap.xml
