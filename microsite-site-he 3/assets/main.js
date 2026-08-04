@@ -37,11 +37,24 @@
     });
 
     document.querySelectorAll('form').forEach(function(form){
-      form.addEventListener('submit',function(){
+      form.addEventListener('submit',function(event){
         trackEvent('generate_lead',{
           form_id:form.id||'estimate_form',
           page_path:window.location.pathname
         });
+
+        var successUrl=form.getAttribute('data-success-url');
+        if(successUrl){
+          event.preventDefault();
+          var submitButton=form.querySelector('[type="submit"]');
+          if(submitButton){
+            submitButton.disabled=true;
+            submitButton.textContent='הפנייה נשלחת...';
+          }
+          window.setTimeout(function(){
+            window.location.assign(successUrl);
+          },350);
+        }
       });
     });
 
