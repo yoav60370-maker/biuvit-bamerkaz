@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://biuvit-bamerkaz.co.il/</loc><priority>1.0</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/services.html</loc><priority>0.9</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/grease-trap-pumping.html</loc><priority>0.9</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/service-areas.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/givatayim.html</loc><priority>0.9</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/ramat-gan.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/tel-aviv.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/petah-tikva.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/holon.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/rishon-lezion.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/raanana.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/modiin.html</loc><priority>0.8</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/about.html</loc><priority>0.6</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/faq.html</loc><priority>0.7</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/contact.html</loc><priority>0.7</priority></url>
-  <url><loc>https://biuvit-bamerkaz.co.il/estimate.html</loc><priority>0.7</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/services/</loc><priority>0.9</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/grease-trap-pumping/</loc><priority>0.9</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/service-areas/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/givatayim/</loc><priority>0.9</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/ramat-gan/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/tel-aviv/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/petah-tikva/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/holon/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/rishon-lezion/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/raanana/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/modiin/</loc><priority>0.8</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/about/</loc><priority>0.6</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/faq/</loc><priority>0.7</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/contact/</loc><priority>0.7</priority></url>
+  <url><loc>https://biuvit-bamerkaz.co.il/estimate/</loc><priority>0.7</priority></url>
 </urlset>
