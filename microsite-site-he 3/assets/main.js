@@ -19,8 +19,8 @@
   }
 
   document.addEventListener('DOMContentLoaded',function(){
-    var displayPhone='0772614164';
-    var dialPhone='tel:0772614164';
+    var displayPhone='03-7219051';
+    var dialPhone='tel:037219051';
 
     document.querySelectorAll('.wc-phone').forEach(function(link){
       link.textContent=displayPhone;
